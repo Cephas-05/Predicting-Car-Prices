@@ -67,4 +67,5 @@ Applying **mean encoding to the model feature significantly improved predictive 
 
 ## Author
 
-Chad
+Cephas Princely
+
